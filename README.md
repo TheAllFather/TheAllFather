@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheAllFather
-- 👀 I’m interested in Webdev & AI
+- 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me essekingston@gmail.com
